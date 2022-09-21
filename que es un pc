@@ -33,3 +33,20 @@ que realizan los programas que tienes instalados en el ordenador
 CPU tenga varios procesadores o núcleos suele implicar que es capaz de realizar más operaciones a la vez, por lo que su funcionamiento puede ser más 
 rápido y mejor. Sin embargo, esto no siempre quiere decir que cuantos más núcleo haya más rápido será todo, ya que esto es algo que también depende 
 de cómo sean cada uno de los núcleos
+
+La placa base, también conocida como tarjeta madre, placa madre o placa principal es una tarjeta de circuito impreso a la que se conectan los componentes
+que constituyen la computadora. 
+Es una parte fundamental para montar cualquier computadora personal de escritorio o portátil o algún dispositivo. Tiene instalados una serie de circuitos 
+integrados, entre los que se encuentra el circuito integrado auxiliar que sirve como centro de conexión entre el microprocesador (CPU), la memoria de 
+acceso aleatorio (RAM), las ranuras de expansión y otros dispositivos. 
+La placa base, además incluye un firmware llamado BIOS, que le permite realizar las funcionalidades básicas, como pruebas de los dispositivos, vídeo y
+manejo del teclado, reconocimiento de dispositivos y carga del sistema operativo.
+El chipset es una serie o conjunto de circuitos electrónicos, que gestionan las transferencias de datos entre los diferentes componentes de la computadora
+Las placas base necesitan tener muchas dimensiones compatibles con las cajas que las contienen, de manera que desde los primeros computadores personales 
+se han establecido características mecánicas, llamadas factor de forma.
+hay varios tipos de placa base como at,atx,itx,btx,dtx
+
+La RAM es un almacenamiento temporal que se vacía cuando se apaga el equipo. Entonces, ¿para qué se usa la RAM? Es muy rápida, lo que la hace ideal para 
+aquellas cosas en las que el equipo está trabajando activamente, como las aplicaciones en ejecuciónStatic RAM (SRAM) Dynamic RAM (DRAM)Synchronous Dynamic 
+hay diferentes tipos de ram RAM (SDRAM) Single Data Rate Synchronous Dynamic RAM (SDR SDRAM)Double Data Rate Synchronous Dynamic RAM (DDR SDRAM)Graphics 
+Double Data Rate Synchronous Dynamic RAM (GDDR SDRAM)
