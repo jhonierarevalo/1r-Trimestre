@@ -1,0 +1,8 @@
+hoy hemos creado una figuras para poder hacer la figura tienes que hacer un cuadrado de 120x120 y dentro del cuadrado tienes que poner unos 
+cuadrados pequeños que midan 20cm tienen que formar una linea de 3 con 9 cuadrados que tienen que estar separados unos 20cm y tambien lo hemos 
+echo de diferntes formass por ejemplo de triangulos o de ectagonos o circulos 
+y ahora estamos haciendo la insterseccion la exclusion,division,cortar trayecto 
+la interseccion lo que hace es agarrar el cuadrado que esta entre los dos cuadrados 
+la exclusion lo que hace es que excluye un cuadrado y una parte del otro 
+la division lo que hace es que quita la parte del medio que juntan los dos cuadrados 
+cortar trayecto lo que hace es que quita el un cuadrado y se queda uno de color blanco y se puede mover el la esquina de abajo de la derecha 
